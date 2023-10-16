@@ -5,6 +5,12 @@ public class OperadoresJava {
 
         double modulo = var01 / var02;
 
-        System.out.print(modulo);
+        System.out.print(modulo + " ");
+
+        String concatencao = "?";
+
+        concatencao = 1+1+1+" 1";
+
+        System.out.println(concatencao);
     }
 }
