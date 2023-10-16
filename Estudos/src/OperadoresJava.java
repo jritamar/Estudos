@@ -1,16 +1,15 @@
 public class OperadoresJava {
     public static void main(String [] args){
-        double var01 = 18;
-        double var02 = 5;
+int a;
+int b;
 
-        double modulo = var01 / var02;
+a = 6;
+b = 5;
 
-        System.out.print(modulo + " ");
+System.out.println(a!=b ? "Verdadeiro" : "Falso");
 
-        String concatencao = "?";
 
-        concatencao = 1+1+1+" 1";
+}
 
-        System.out.println(concatencao);
-    }
+
 }
